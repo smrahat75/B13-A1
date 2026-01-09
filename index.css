@@ -89,7 +89,6 @@ hr{
     font-size: 18px;
     font-weight: 400; 
     color: #FFFFFF;
-    padding: 0 330px;
     line-height: 30px;
     margin-bottom: 32px;
 }
@@ -195,6 +194,7 @@ hr{
 }
 .brain-box .brain-img{
    width: 600px;
+   border-radius: 5px;
 }
 #brain .brain-box .brain-text{
     display:flex;
@@ -215,6 +215,12 @@ hr{
     color: #001931;
     margin-bottom: 16px;
     text-transform: capitalize;
+}
+.brain-box .brain-text .text-you p{
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    line-height: 24px;
 }
 .brain-box .brain-text .text-he p{
     font-size: 16px;
