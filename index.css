@@ -21,6 +21,7 @@
 }
 .btn:hover{
     transform: scale(1.05);
+    box-shadow: 1px 1px 15px #627382;
 }
 
 hr{
@@ -74,6 +75,7 @@ hr{
 }
 .hero-button:hover{
     transform: scale(1.05);
+    box-shadow: 1px 1px 15px #627382;
 }
 #hero .hero-section .hero-title h1{
     color: #FFFFFF;
